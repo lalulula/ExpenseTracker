@@ -1,0 +1,10 @@
+.datePicker .MuiSvgIcon-root {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .datePicker .MuiInputBase-input {
+    font-size: 0.875rem;
+    padding: 7px 10px;
+  }
+  
